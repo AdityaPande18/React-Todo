@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-flow: column nowrap;
+  margin-top: 50px;
+  float: left;
+  margin-left: 10em;
+}
+
+.App .title {
+  font-size: 5rem;
+  padding: 0px 20px 0px 20px;
+  background-color: #E1BF96;
+  border-radius: 10px;
+  border: 2px solid black;
+  align-self: center;
+  color: #1b1b1b;
+  font-family: "Playfair";
+}
